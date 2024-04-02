@@ -6,7 +6,7 @@ import javax.swing.*;
 import java.awt.event.*;
 
 /**
- * This is the entry class of the server
+ * This is the entry class of the server 
  */
 public class ServerMain {
     //Main server frame
