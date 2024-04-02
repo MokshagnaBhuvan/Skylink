@@ -4,7 +4,7 @@ import java.awt.event.*;
 import javax.swing.*;	//joptionpane
 import java.net.*;	//socket
 import java.io.*;	//stream
-import java.awt.image.*;	// not used
+import java.awt.image.*;	// not used 
 import javax.imageio.*;		//
 import java.util.Scanner;
 
