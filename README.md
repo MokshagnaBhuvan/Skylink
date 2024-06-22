@@ -46,7 +46,5 @@ This project implements a simple remote desktop server application in Java using
 - Clients should run the corresponding client application to connect to the server.
 - Use the server GUI to view client screens and control them using mouse and keyboard events.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
